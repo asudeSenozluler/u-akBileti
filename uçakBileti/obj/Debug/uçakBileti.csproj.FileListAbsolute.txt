@@ -1,0 +1,27 @@
+C:\Users\asus\Desktop\udemy kurs\uçakBileti\uçakBileti\bin\Debug\uçakBileti.exe.config
+C:\Users\asus\Desktop\udemy kurs\uçakBileti\uçakBileti\bin\Debug\uçakBileti.exe
+C:\Users\asus\Desktop\udemy kurs\uçakBileti\uçakBileti\bin\Debug\uçakBileti.pdb
+C:\Users\asus\Desktop\udemy kurs\uçakBileti\uçakBileti\obj\Debug\uçakBileti.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\uçakBileti\uçakBileti\obj\Debug\uçakBileti.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\uçakBileti\uçakBileti\obj\Debug\uçakBileti.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\uçakBileti\uçakBileti\obj\Debug\uçakBileti.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\udemy kurs\uçakBileti\uçakBileti\obj\Debug\uçakBileti.exe
+C:\Users\asus\Desktop\udemy kurs\uçakBileti\uçakBileti\obj\Debug\uçakBileti.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form\uçakBileti\uçakBileti\bin\Debug\uçakBileti.exe.config
+C:\Users\asus\Desktop\udemy kurs\c#form\uçakBileti\uçakBileti\obj\Debug\uçakBileti.exe
+C:\Users\asus\Desktop\udemy kurs\c#form\uçakBileti\uçakBileti\obj\Debug\uçakBileti.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form\uçakBileti\uçakBileti\bin\Debug\uçakBileti.exe
+C:\Users\asus\Desktop\udemy kurs\c#form\uçakBileti\uçakBileti\bin\Debug\uçakBileti.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form\uçakBileti\uçakBileti\obj\Debug\uçakBileti.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\c#form\uçakBileti\uçakBileti\obj\Debug\uçakBileti.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\c#form\uçakBileti\uçakBileti\obj\Debug\uçakBileti.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\c#form\uçakBileti\uçakBileti\obj\Debug\uçakBileti.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\uçakBileti\uçakBileti\bin\Debug\uçakBileti.exe.config
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\uçakBileti\uçakBileti\obj\Debug\uçakBileti.exe
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\uçakBileti\uçakBileti\obj\Debug\uçakBileti.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\uçakBileti\uçakBileti\bin\Debug\uçakBileti.exe
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\uçakBileti\uçakBileti\bin\Debug\uçakBileti.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\uçakBileti\uçakBileti\obj\Debug\uçakBileti.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\uçakBileti\uçakBileti\obj\Debug\uçakBileti.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\uçakBileti\uçakBileti\obj\Debug\uçakBileti.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\uçakBileti\uçakBileti\obj\Debug\uçakBileti.csproj.GenerateResource.Cache
